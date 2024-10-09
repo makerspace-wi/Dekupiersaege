@@ -15,7 +15,7 @@ Holzplatten damit bearbeitet werden können.
 ![IMG_4890](https://github.com/user-attachments/assets/edb8ae00-825a-4616-ac55-e0fa77a9bf20)
 <br>
 ![IMG_4888](https://github.com/user-attachments/assets/a3aa62e9-6eee-4733-bab8-ee4f0f5ebd66)
-<br>
+<br><br>
 ## Einsetzen/Wechsel von Sägeblättern
 ### Einsetzen
 * Auf jeden Fall sicherstellen, dass der Stecker der Maschine gezogen ist
@@ -27,6 +27,7 @@ Holzplatten damit bearbeitet werden können.
 * das Sägeblatt gerade/senkrecht in die Halterungsfläche einführen und die Schraube mit dem Schraubenzieher fest anziehen
 * die LRHF jetzt wieder fest halten, die 4. Schraube lockern und die LRHF wieder hoch in die gemerkte Position ziehen - das Sägeblatt spannt sich dabei
 * zum Abschluss alle 4 Fixierschrauben wieder gut anziehen - die Arbeit kann beginnen
+<br><br>
 ### Wechsel
 * Auf jeden Fall sicherstellen, dass der Stecker der Maschine gezogen ist
 * Hinten - Unten mit der Hand den Motor drehen und damit die Sägeblattpleuelstange in den oberen Totpunkt bringen
@@ -46,5 +47,6 @@ Achtung: die maximale Materialdicke beträgt 30mm (Orlando ?)
 * Achtung - es dauert bis zu 30 Sekunden, bis der Frequenzumrichter hochfährt, dann geht auch das Licht an
 * wird nun der Fußschalter betätigt, beginnt der Motor der Säge zu laufen - die gewünschte Geschwindigkeit kann dabei an dem kleinen Poti eingestellt werden
 * für sehr dünne Holzplatten kann das Haltefüßchen runter gefahren werden, damit die Holzplatte nicht schwingt. Dazu auf der linken Seite die Stellschraube lösen, bzw. anziehen
+<br>
 ![IMG_4888](https://github.com/user-attachments/assets/bcc81bd8-f063-4e49-9c3b-ba7277246f37)
 <br><br>
