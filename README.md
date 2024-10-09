@@ -16,6 +16,7 @@ Holzplatten damit bearbeitet werden können.
 ![IMG_4888](https://github.com/user-attachments/assets/a3aa62e9-6eee-4733-bab8-ee4f0f5ebd66)
 <br>
 ## Einsetzen/Wechsel von Sägeblättern
-text
+* Auf jeden Fall sicherstellen, dass der Stecker der Maschine gezogen ist
+* Hinten - Unten mit der Hand den Motor drehen und damit die Sägeblattpleuelstange in den oberen Totpunkt bringen
 ## Einschalten und Inbetriebnahme
 text
