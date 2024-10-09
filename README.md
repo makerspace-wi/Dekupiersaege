@@ -40,6 +40,8 @@ www.saegeblatt-shop.de
 <br><br>
 ![IMG_4888](https://github.com/user-attachments/assets/bcc81bd8-f063-4e49-9c3b-ba7277246f37)
 <br><br>
+![IMG_4920](https://github.com/user-attachments/assets/faafbf54-9c9f-4a31-85e1-15b98ef77161)
+<br><br>
 ## Einschalten und Inbetriebnahme
 An dieser Stelle möchten wir darauf hinweisen, dass die Dekupiersäge nur nach einer Einweisung benutzt werden darf!
 Achtung: die maximale Materialdicke beträgt 30mm (Orlando ?)
