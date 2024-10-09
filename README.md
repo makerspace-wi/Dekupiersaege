@@ -14,6 +14,7 @@ Holzplatten damit bearbeitet werden können.
 www.saegeblatt-shop.de
 <br>
 ## Einsetzen/Wechsel von Sägeblättern
+<br>
 <img src="https://github.com/user-attachments/assets/315244eb-10b6-496a-9ba8-7b0a268f8259" width="400">
 <br><br>
 ### Einsetzen
