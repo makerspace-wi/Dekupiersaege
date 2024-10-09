@@ -51,5 +51,5 @@ An dieser Stelle möchten wir darauf hinweisen, dass die Dekupiersäge nur nach 
 * den RFID-Chip an das Lesegerät auf der linken Seite halten - das Lesegerät sollte den Chip erkennen und den Frequenzumwandler bestromen
 * Achtung - es dauert bis zu 30 Sekunden, bis der Frequenzumrichter hochfährt, dann geht auch das Licht an
 * wird nun der Fußschalter betätigt, beginnt der Motor der Säge zu laufen - die gewünschte Geschwindigkeit kann dabei an dem kleinen Poti eingestellt werden
-* für sehr dünne Holzplatten kann das Haltefüßchen runter gefahren werden, damit die Holzplatte nicht schwingt. Dazu auf der linken Seite die Stellschraube lösen, bzw. anziehen
+* für sehr dünne Holzplatten kann das Haltefüßchen runter gefahren werden, damit die Holzplatte nicht auf und ab schwingt. Dazu auf der linken Seite die Stellschraube lösen, bzw. anziehen
 
