@@ -9,7 +9,7 @@ Holzplatten damit bearbeitet werden können.
 <img src="https://github.com/user-attachments/assets/98a2cc33-c51e-425f-9b9a-4c7af8e1631f" width="400">
 <br>
 <br>Die Dekupiersäge darf nur nach kurzer Anweisung benutzt werden, sie wird aber nicht individuell freigegeben.
-<br><br>Hinweis vorab: Die Sägeblätter der Dekupiersäge werden voraussichtlich öfters kaputt gehen und wir weisen zukünftige Nutzer an, sich einen entsprechenden Vorrat an Sägeblättern zuzulegen. Achtung: keine Stiftsägeblätter!
+<br><br><b>Hinweis vorab:</b> Die Sägeblätter der Dekupiersäge werden voraussichtlich öfters kaputt gehen und wir weisen zukünftige Nutzer an, sich einen entsprechenden Vorrat an Sägeblättern zuzulegen. Achtung: keine Stiftsägeblätter!
 <br>Sägeblätter können hier bestellt werden: Firma - Anschrift (Orlando)
 www.saegeblatt-shop.de
 <br>
