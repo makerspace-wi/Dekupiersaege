@@ -20,12 +20,14 @@ Holzplatten damit bearbeitet werden können.
 * Auf jeden Fall sicherstellen, dass der Stecker der Maschine gezogen ist
 * Hinten - Unten mit der Hand den Motor drehen und damit die Sägeblattpleuelstange in den oberen Totpunkt bringen
 * mit dem an der Maschine gelagerten Schraubenzieher durch das Loch im Chassis die Schraube an der Pleuelstange lösen
-* ein Sägeblatt von oben SENKRECHT einführen und die Schrauben wieder anziehen
-* nun die Position der Luftrückholfeder (LRHF) merken und 3 der Fixierschrauben lösen und mit einer Hand die LRHF festhalten
+* ein Sägeblatt von oben SENKRECHT einführen und die Schrauben wieder gut anziehen
+* nun die Position der Luftrückholfeder (LRHF) merken und 3 der 4 Fixierschrauben lösen und mit einer Hand die LRHF festhalten
 * jetzt die 4. Schraube lösen und die LRHF langsam nach unten schieben, bis die Sägeblatthalterung auf Höhe der Sägeblattspannfläche ist - dann eine der Fixierschrauben wieder anziehen
 * das Sägeblatt gerade/senkrecht in die Halterungsfläche einführen und die Schraube mit dem Schraubenzieher fest anziehen
 * die LRHF jetzt wieder fest halten, die 4. Schraube lockern und die LRHF wieder hoch in die gemerkte Position ziehen - das Sägeblatt spannt sich dabei
 * zum Abschluss alle 4 Fixierschrauben wieder gut anziehen - die Arbeit kann beginnen
+### Wechsel
+* Auf jeden Fall sicherstellen, dass der Stecker der Maschine gezogen ist
 ## Einschalten und Inbetriebnahme
 text
 ![IMG_4888](https://github.com/user-attachments/assets/bcc81bd8-f063-4e49-9c3b-ba7277246f37)
