@@ -12,7 +12,7 @@ Holzplatten damit bearbeitet werden können.
 <br><br><b>Hinweis vorab:</b> Die Sägeblätter der Dekupiersäge werden voraussichtlich öfters kaputt gehen und wir weisen zukünftige Nutzer an, sich einen entsprechenden Vorrat an Sägeblättern zuzulegen. Achtung: keine Stiftsägeblätter!
 <br>Sägeblätter können hier bestellt werden: Firma - Anschrift (Orlando)
 www.saegeblatt-shop.de
-<br>
+<br><br>
 <img src="https://github.com/user-attachments/assets/315244eb-10b6-496a-9ba8-7b0a268f8259" width="400">
 <br><br>
 ## Einsetzen/Wechsel von Sägeblättern
