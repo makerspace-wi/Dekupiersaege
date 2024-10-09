@@ -14,6 +14,7 @@ Holzplatten damit bearbeitet werden können.
 www.saegeblatt-shop.de
 <br>
 ## Einsetzen/Wechsel von Sägeblättern
+![IMG_4918](https://github.com/user-attachments/assets/315244eb-10b6-496a-9ba8-7b0a268f8259)
 ### Einsetzen
 * Auf jeden Fall sicherstellen, dass der Stecker der Maschine gezogen ist
 * Hinten - Unten mit der Hand den Motor drehen und damit die Sägeblattpleuelstange in den oberen Totpunkt bringen
