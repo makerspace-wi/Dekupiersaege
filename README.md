@@ -28,4 +28,4 @@ Holzplatten damit bearbeitet werden können.
 * zum Abschluss alle 4 Fixierschrauben wieder gut anziehen - die Arbeit kann beginnen
 ## Einschalten und Inbetriebnahme
 text
-![IMG_4888](https://github.com/user-attachments/assets/24d172b0-a6f2-49a2-a229-5e0e2dbf821e)
+![IMG_4888](https://github.com/user-attachments/assets/bcc81bd8-f063-4e49-9c3b-ba7277246f37)
