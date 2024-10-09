@@ -14,3 +14,7 @@ Holzplatten damit bearbeitet werden können.
 <br>
 ![IMG_4888](https://github.com/user-attachments/assets/a3aa62e9-6eee-4733-bab8-ee4f0f5ebd66)
 <br>
+## Einsetzen/Wechsel von Sägeblättern
+text
+## Einschalten und Inbetriebnahme
+text
