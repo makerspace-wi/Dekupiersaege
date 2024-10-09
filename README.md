@@ -44,11 +44,10 @@ www.saegeblatt-shop.de
 ## Einschalten und Inbetriebnahme
 An dieser Stelle möchten wir darauf hinweisen, dass die Dekupiersäge nur nach einer Einweisung benutzt werden darf!
 <br>Achtung: die maximale Materialdicke beträgt 30mm (Orlando ?)
-<br><br>
+<br>
 * den Stecker der Dekupiersäge in die Steckdose stecken und abwarten bis sich das Lesegerät mit unserem System synchronisiert hat
 * den RFID-Chip an das Lesegerät auf der linken Seite halten - das Lesegerät sollte den Chip erkennen und den Frequenzumwandler bestromen
 * Achtung - es dauert bis zu 30 Sekunden, bis der Frequenzumrichter hochfährt, dann geht auch das Licht an
 * wird nun der Fußschalter betätigt, beginnt der Motor der Säge zu laufen - die gewünschte Geschwindigkeit kann dabei an dem kleinen Poti eingestellt werden
 * für sehr dünne Holzplatten kann das Haltefüßchen runter gefahren werden, damit die Holzplatte nicht schwingt. Dazu auf der linken Seite die Stellschraube lösen, bzw. anziehen
-<br><br>
-<br><br>
+
