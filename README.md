@@ -44,7 +44,7 @@ www.saegeblatt-shop.de
 <br><br>
 ## Einschalten und Inbetriebnahme
 An dieser Stelle möchten wir darauf hinweisen, dass die Dekupiersäge nur nach einer Einweisung benutzt werden darf!
-Achtung: die maximale Materialdicke beträgt 30mm (Orlando ?)
+<br>Achtung: die maximale Materialdicke beträgt 30mm (Orlando ?)
 <br><br>
 * den Stecker der Dekupiersäge in die Steckdose stecken und abwarten bis sich das Lesegerät mit unserem System synchronisiert hat
 * den RFID-Chip an das Lesegerät auf der linken Seite halten - das Lesegerät sollte den Chip erkennen und den Frequenzumwandler bestromen
