@@ -13,10 +13,6 @@ Holzplatten damit bearbeitet werden können.
 <br>Sägeblätter können hier bestellt werden: Firma - Anschrift (Orlando)
 www.saegeblatt-shop.de
 <br>
-![IMG_4890](https://github.com/user-attachments/assets/edb8ae00-825a-4616-ac55-e0fa77a9bf20)
-<br>
-![IMG_4888](https://github.com/user-attachments/assets/a3aa62e9-6eee-4733-bab8-ee4f0f5ebd66)
-<br><br>
 ## Einsetzen/Wechsel von Sägeblättern
 ### Einsetzen
 * Auf jeden Fall sicherstellen, dass der Stecker der Maschine gezogen ist
