@@ -42,7 +42,7 @@ www.saegeblatt-shop.de
 ![IMG_4920](https://github.com/user-attachments/assets/faafbf54-9c9f-4a31-85e1-15b98ef77161)
 <br><br>
 ## Einschalten und Inbetriebnahme
-An dieser Stelle möchten wir darauf hinweisen, dass die Dekupiersäge nur nach einer Einweisung benutzt werden darf!
+An dieser Stelle möchten wir darauf hinweisen, dass die Dekupiersäge nur nach einer Einweisung benutzt werden darf und auf keinen Fall irgendwelche Knöpfe am Frequenzumwandler gedrückt werden dürfen!
 <br>Achtung: die maximale Materialdicke beträgt 30mm (Orlando ?)
 <br>
 * den Stecker der Dekupiersäge in die Steckdose stecken und abwarten bis sich das Lesegerät mit unserem System synchronisiert hat
