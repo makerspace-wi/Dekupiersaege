@@ -53,3 +53,8 @@ An dieser Stelle möchten wir darauf hinweisen, dass die Dekupiersäge nur nach 
 * wird nun der Fußschalter betätigt, beginnt der Motor der Säge zu laufen - die gewünschte Geschwindigkeit kann dabei an dem kleinen Poti eingestellt werden
 * für sehr dünne Holzplatten kann das Haltefüßchen runter gefahren werden, damit die Holzplatte nicht auf und ab schwingt. Dazu auf der linken Seite die Stellschraube lösen, bzw. anziehen
 
+## Ausschalten und Endreinigung
+Ausgeschaltet wird die Säge durch drücken des "GRÜN" leuchtenden Tasters - bitte so lange gedrückt halten, bis die Anzeige erlischt und dann den Stecker aus der Steckdose ziehen.
+<br><br>
+Nach getaner Arbeit müssen die Flächen der Säge und der Boden um die Säge herum gereinigt werden.
+<br>ACHTUNG - es sammelt sich auch Späne unter der Arbeitsfläche rund um die Sägeblattpleuelstange, deshalb auch dort die Späne entfernen.
