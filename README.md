@@ -37,7 +37,7 @@ www.saegeblatt-shop.de
 * die LRHF jetzt wieder fest halten, die 4. Schraube lockern und die LRHF wieder hoch in die gemerkte Position ziehen - das Sägeblatt spannt sich dabei
 * zum Abschluss alle 4 Fixierschrauben wieder gut anziehen - die Arbeit kann beginnen
 ### Sägeblatt in ein Loch einführen
-Text muss noch geschrieben werden 
+Für verschiedene Projekte kann es erforderlich sein, das Sägeblatt in ein Loch eines Werkstücks einzuführen - dazu wie folgt vorgehen:  
 <br><br>
 ![IMG_4888](https://github.com/user-attachments/assets/bcc81bd8-f063-4e49-9c3b-ba7277246f37)
 <br><br>
