@@ -20,7 +20,7 @@ www.saegeblatt-shop.de
 * Auf jeden Fall sicherstellen, dass der Stecker der Maschine gezogen ist
 * Hinten - Unten mit der Hand den Motor drehen und damit die Sägeblattpleuelstange in den <b>oberen</b> Totpunkt bringen
 * mit dem an der Maschine gelagerten Schraubenzieher durch das Loch im Chassis die Schraube an der Pleuelstange lösen
-* ein Sägeblatt von oben SENKRECHT einführen und die Schrauben wieder gut anziehen
+* ein Sägeblatt von oben SENKRECHT einführen und die Schraube wieder gut anziehen
 * nun die Position der Luftrückholfeder (LRHF) merken und 3 der 4 Fixierschrauben lösen und mit einer Hand die LRHF festhalten
 * jetzt die 4. Schraube lösen und die LRHF langsam nach unten schieben, bis die Sägeblatthalterung auf Höhe der Sägeblattspannfläche ist - dann eine der Fixierschrauben wieder anziehen
 * das Sägeblatt gerade/senkrecht in die Halterungsfläche einführen und die Schraube mit dem Schraubenzieher fest anziehen
@@ -33,7 +33,7 @@ www.saegeblatt-shop.de
 * nun die Position der Luftrückholfeder (LRHF) merken und 3 der 4 Fixierschrauben lösen und mit einer Hand die LRHF festhalten
 * jetzt die 4. Schraube lösen und die LRHF langsam nach unten schieben, bis die Rückholstange entspannt ist - dann eine der Fixierschrauben wieder anziehen
 * nun können mit dem Schraubenzieher die Schrauben an der Pleuelstange und an der Rückholstange gelöst werden und das Sägeblatt (oder seine Reste) entnommen werden
-* jetzt kann ein neues Sägeblatt senkrecht eingeführt werden, um danach die beiden Sägeblatthalteschrauben wieder anzuziehen
+* jetzt kann ein neues Sägeblatt senkrecht eingeführt werden, um danach die beiden Sägeblatthalteschrauben (oben & unten) wieder anzuziehen
 * die LRHF jetzt wieder fest halten, die 4. Schraube lockern und hoch in die gemerkte Position ziehen - das Sägeblatt spannt sich dabei
 * zum Abschluss alle 4 Fixierschrauben wieder gut anziehen - die Arbeit kann beginnen
 ### Sägeblatt in ein Loch einführen
