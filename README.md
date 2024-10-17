@@ -18,7 +18,7 @@ www.saegeblatt-shop.de
 ## Einsetzen/Wechsel von Sägeblättern
 ### Einsetzen
 * Auf jeden Fall sicherstellen, dass der Stecker der Maschine gezogen ist
-* Hinten - Unten mit der Hand den Motor drehen und damit die Sägeblattpleuelstange in den <b>oberen</b> Totpunkt bringen
+* Hinten - Unten mit der Hand den Motor drehen und die Sägeblatthalteschraube mit dem Loch im Chassis ausgerichten
 * mit dem an der Maschine gelagerten Schraubenzieher durch das Loch im Chassis die Schraube an der Pleuelstange lösen
 * ein Sägeblatt von oben SENKRECHT einführen und die Schraube wieder gut anziehen
 * nun die Position der Luftrückholfeder (LRHF) merken und 3 der 4 Fixierschrauben lösen und mit einer Hand die LRHF festhalten
@@ -29,10 +29,11 @@ www.saegeblatt-shop.de
 <br><br>
 ### Wechsel
 * Auf jeden Fall sicherstellen, dass der Stecker der Maschine gezogen ist
-* Hinten - Unten mit der Hand den Motor drehen und damit die Sägeblattpleuelstange in den <b>oberen</b> Totpunkt bringen
+* Hinten - Unten mit der Hand den Motor drehen und die Sägeblatthalteschraube mit dem Loch im Chassis ausgerichten
 * nun die Position der Luftrückholfeder (LRHF) merken und 3 der 4 Fixierschrauben lösen und mit einer Hand die LRHF festhalten
 * jetzt die 4. Schraube lösen und die LRHF langsam nach unten schieben, bis die Rückholstange entspannt ist - dann eine der Fixierschrauben wieder anziehen
-* nun können mit dem Schraubenzieher die Schrauben an der Pleuelstange und an der Rückholstange gelöst werden und das Sägeblatt (oder seine Reste) entnommen werden
+* mit dem Schraubenzieher die Schrauben an der Rückholstange lösen und das Sägeblatt (oder seine Reste) aus der Halterung schieben
+* mit dem an der Maschine gelagerten Schraubenzieher durch das Loch im Chassis die Schraube an der Pleuelstange lösen und Sägeblatt entnehmen
 * jetzt kann ein neues Sägeblatt senkrecht eingeführt werden, um danach die beiden Sägeblatthalteschrauben (oben & unten) wieder anzuziehen
 * die LRHF jetzt wieder fest halten, die 4. Schraube lockern und hoch in die gemerkte Position ziehen - das Sägeblatt spannt sich dabei
 * zum Abschluss alle 4 Fixierschrauben wieder gut anziehen - die Arbeit kann beginnen
