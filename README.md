@@ -18,7 +18,7 @@ www.saegeblatt-shop.de
 ## Einsetzen/Wechsel von Sägeblättern
 ### Einsetzen
 * Auf jeden Fall sicherstellen, dass der Stecker der Maschine gezogen ist
-* Hinten - Unten mit der Hand den Motor drehen und die Sägeblatthalteschraube mit dem Loch im Chassis ausgerichten
+* Hinten - Unten mit der Hand den Motor drehen und die Sägeblatthalteschraube mit dem Loch im Chassis ausrichten
 * mit dem an der Maschine gelagerten Schraubenzieher durch das Loch im Chassis die Schraube an der Pleuelstange lösen
 * ein Sägeblatt von oben SENKRECHT einführen und die Schraube wieder gut anziehen
 * nun die Position der Luftrückholfeder (LRHF) merken und 3 der 4 Fixierschrauben lösen und mit einer Hand die LRHF festhalten
